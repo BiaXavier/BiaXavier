@@ -1,7 +1,6 @@
 - #sobre mim
 
-
--👋 ola, eu sou @BiaXavier
+- ola, eu sou @BiaXavier
 - 👀 estou começando a programar
 - 🌱 meu email de contato é bia0405fx@gmail.com
 - 💞️ sou estudante do alura
